@@ -13,22 +13,22 @@ Welcome To The Netflix Recommendation Engine Project! This Project Aims To Devel
 
 
 ## Dataset Information
-The Dataset Contains The Following Columns:
+The Dataset Contains The Following Columns:-
 
-1) Id: Contains Separate Keys For Customers And Movies.
-2) Rating: Represents User Ratings For All Movies.
-3) Genre: Highlights The Category Of The Movie.
-4) Movie Name: Name Of The Movie Corresponding To The Movie Id.
+1) Id:- Contains Separate Keys For Customers And Movies.
+2) Rating:- Represents User Ratings For All Movies.
+3) Genre:- Highlights The Category Of The Movie.
+4) Movie Name:- Name Of The Movie Corresponding To The Movie Id.
 
 
 
-## To Get Started With The Netflix Recommendation Engine Project, I Followed These Steps:
+## To Get Started With The Netflix Recommendation Engine Project, I Followed These Steps:-
 
-1) Download The Dataset: Obtain The Netflix Dataset Containing Customer Ratings And Movie Information.
-2) Data Preprocessing: Clean And Preprocess The Dataset, Handling Missing Values And Encoding Categorical Variables If Necessary.
-3) Exploratory Data Analysis (Eda): Perform Exploratory Data Analysis To Gain Insights Into The Dataset, Understand User Preferences, And Identify Patterns.
-4) Model Development: Implement Recommendation Algorithms Such As Collaborative Filtering, Content-based Filtering, Or Hybrid Approaches Using Machine Learning Libraries Like Scikit-learn.
-5) Model Evaluation: Evaluate The Performance Of The Recommendation Models Using Appropriate Evaluation Metrics And Techniques.
+1) Download The Dataset :- Obtain The Netflix Dataset Containing Customer Ratings And Movie Information.
+2) Data Preprocessing :- Clean And Preprocess The Dataset, Handling Missing Values And Encoding Categorical Variables If Necessary.
+3) Exploratory Data Analysis (EDA) :- Perform Exploratory Data Analysis To Gain Insights Into The Dataset, Understand User Preferences, And Identify Patterns.
+4) Model Development :- Implement Recommendation Algorithms Such As Collaborative Filtering, Content-based Filtering, Or Hybrid Approaches Using Machine Learning Libraries Like Scikit-learn.
+5) Model Evaluation :- Evaluate The Performance Of The Recommendation Models Using Appropriate Evaluation Metrics And Techniques.
 
 
 ## Acknowledgements
@@ -39,7 +39,7 @@ The Contest Was Originally Hosted At http://netflixprize.com/index.html
 The Dataset Was Downloaded From https://archive.org/download/nf_prize_dataset.tar
 
 
-## References: 
+## References :- 
 This Project Utilized Information And Resources From Various Internet Sources. The Following References Were Instrumental In The Development Of This Project:
 
 1) Kaggle: The Netflix Dataset Used In This Project Was Obtained From Kaggle, A Platform For Data Science Competitions And Datasets.
